@@ -1,2 +1,2 @@
 # project
-Demo
+Demo badges
